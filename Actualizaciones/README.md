@@ -1,7 +1,9 @@
 # 🗂️ Proyecto: Sistema de Gestión Documental
 
-> ⏱️ Tiempo estimado total: **1.5 a 2 semanas**  
-> 🛠️ Estado: `✅ Terminado` | `🛠️ En progreso` | `❌ Pendiente`
+> ⏱️ Tiempo estimado total: **3 a 3.5 semanas**  
+> 🛠️ Estado: `✅ Terminado` | `🛠️ En progreso` | `❌ Pendiente`  
+> 📝 **Incluye:** Desarrollo, pruebas, revisión y documentación
+
 
 ---
 
@@ -9,9 +11,9 @@
 
 | Tarea | Estado | Tiempo estimado | Comentarios |
 |-------|--------|------------------|-------------|
-| Implementar encriptación de documentos digitales | ❌ Pendiente | 1 día | Usar AES u otro estándar |
-| Controles de acceso restringido (roles/usuarios) | 🛠️ En progreso | 1.5 días | Integración con sistema de autenticación |
-| Cumplimiento de normativas de protección de datos | ❌ Pendiente | 0.5 días | Aplicación de políticas de privacidad |
+| Implementar encriptación de documentos digitales | ✅ Terminado | 5 días | Usar conexion segura con certificado SSL y conexiones seguras con SSH (Secure Shell) es un protocolo de red que permite el acceso remoto seguro a otro equipo, ejecutando comandos y transfiriendo archivos de forma cifrada  |
+| Controles de acceso restringido (roles/usuarios) | ✅ Terminado | 1.5 días | Integración con sistema de autenticación |
+| Cumplimiento de normativas de protección de datos | 🛠️ En progreso | 2 días | Aplicación de políticas de privacidad |
 
 ---
 
@@ -49,6 +51,14 @@
 - [x] Gestión avanzada de búsqueda
 - [x] Seguridad basada en roles
 - [x] Cumplimiento legal
+
+---
+
+## 📌 Observaciones
+
+- El desarrollo debe considerar flexibilidad para futuras ampliaciones.
+- Se recomienda realizar pruebas de seguridad antes de entrega final.
+- El visor web debe ser accesible y ligero para garantizar usabilidad.
 
 ---
 
